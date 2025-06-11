@@ -257,7 +257,7 @@ footer .container {
 }
 
 /* For-MD-DISPLAY */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .menu-btn {
     display: block;
   }
@@ -300,4 +300,4 @@ footer .container {
     justify-content: center;
     text-align: center;
   }
-}
+} */
